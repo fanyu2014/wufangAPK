@@ -13,8 +13,8 @@
 ### 线上环境提测：
 
 ### 测试环境提测：
-[9月4日：百纪成长_1.6.0](http://app-global.pgyer.com/be3adc955e7b83083e0f01d26f4e82c7.apk?attname=百纪1.6提测-9月4日-测试环境.apk&sign=6ce093108afba8ae587e8cd14d6adfad&t=5b8de123)
+[9月4日：百纪成长_1.6.0](https://fanyu-low-rate.oss-cn-shenzhen.aliyuncs.com/apk/%E7%99%BE%E7%BA%AA/1.6.0/%E7%99%BE%E7%BA%AA1.6%E6%8F%90%E6%B5%8B-9%E6%9C%884%E6%97%A5-%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83.apk)
 
-[9月3日：百纪成长_1.6.0](http://app-global.pgyer.com/723b6b5722b31f13ef0269bcf2bb5244.apk?attname=百纪1.6提测-9月3日-测试环境.apk&sign=7c79f99954a87e5f150391a43932443d&t=5b8d0018)
+[9月3日：百纪成长_1.6.0](https://fanyu-low-rate.oss-cn-shenzhen.aliyuncs.com/apk/%E7%99%BE%E7%BA%AA/1.6.0/%E7%99%BE%E7%BA%AA1.6%E6%8F%90%E6%B5%8B-9%E6%9C%883%E6%97%A5-%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83.apk)
 
-[8月31日：百纪成长_1.6.0](http://app-global.pgyer.com/46b7d038ed1899878186912026f6c224.apk?attname=百纪1.6提测-8月31日-测试环境.apk&sign=23a78ad6517186dca3c56effa3efc05f&t=5b8d0018)
+[8月31日：百纪成长_1.6.0](https://fanyu-low-rate.oss-cn-shenzhen.aliyuncs.com/apk/%E7%99%BE%E7%BA%AA/1.6.0/%E7%99%BE%E7%BA%AA1.6%E6%8F%90%E6%B5%8B-8%E6%9C%8831%E6%97%A5-%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83.apk)
