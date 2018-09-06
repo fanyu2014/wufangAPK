@@ -2,13 +2,13 @@
 
 ### 正式版链接：
 [二维码←](https://github.com/fanyu2014/wufangAPK/blob/master/img/教育家QRCode.png)
-[教育+_2.8.5](https://a.app.qq.com/o/simple.jsp?pkgname=com.hj.education)
+[教育+](https://a.app.qq.com/o/simple.jsp?pkgname=com.hj.education)
 
 [二维码←](https://github.com/fanyu2014/wufangAPK/blob/master/img/百纪成长QRCode.png)
-[百纪成长_1.5.3](https://a.app.qq.com/o/simple.jsp?pkgname=com.wufang.mall)
+[百纪成长](https://a.app.qq.com/o/simple.jsp?pkgname=com.wufang.mall)
 
 [二维码←](https://github.com/fanyu2014/wufangAPK/blob/master/img/百纪成长畅玩版QRCode.png)
-[百纪成长畅玩版_1.5.3](https://a.app.qq.com/o/simple.jsp?pkgname=com.wufang.mall.mail)
+[百纪成长畅玩版](https://a.app.qq.com/o/simple.jsp?pkgname=com.wufang.mall.mail)
 
 ### 提测地址：
 百纪成长：
