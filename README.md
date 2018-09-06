@@ -15,7 +15,7 @@
 [[apk]](https://www.pgyer.com/05UL)
 [[iOS]](https://www.pgyer.com/gsvh)
 
-### 更改日志：
+### 提测日志：
 9月6日百纪成长_1.6.0：iOS打app store签名包
 
 9月5日百纪成长_1.6.0：去除百纪卡tab界面本季热门item标题调试内容
