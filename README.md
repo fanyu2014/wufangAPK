@@ -12,10 +12,13 @@
 
 ### 提测地址：
 百纪成长：
-[[apk]](https://www.pgyer.com/05UL)
-[[iOS]](https://www.pgyer.com/gsvh)
+[[ apk ]](https://www.pgyer.com/05UL)
+[[ iOS ]](https://www.pgyer.com/gsvh)
+[[ ipa ]](https://www.pgyer.com/manager/dashboard/app/1fcd94b39ee3d61337b8e94ccec48870)
 
 ### 提测日志：
+9月6日(2)百纪成长_1.6.0：version code +1
+
 9月6日百纪成长_1.6.0：iOS打app store签名包
 
 9月5日百纪成长_1.6.0：去除百纪卡tab界面本季热门item标题调试内容
