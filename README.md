@@ -18,6 +18,7 @@
 [[ apk ]](https://www.pgyer.com/05UL)
 [[ iOS ]](https://www.pgyer.com/gsvh)
 [[ ipa ]](https://www.pgyer.com/manager/dashboard/app/1fcd94b39ee3d61337b8e94ccec48870)
+[[推送专用]](https://www.pgyer.com/4y1O)
 
 ### 提测日志：
 9月6日(2)百纪成长_1.6.0：version code +1
