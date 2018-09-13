@@ -9,9 +9,9 @@
 [[二维码]](https://github.com/fanyu2014/wufangAPK/blob/master/img/百纪成长QRCode.png)
 [[下载链接]](https://a.app.qq.com/o/simple.jsp?pkgname=com.wufang.mall)
 
-百纪成长畅玩版：
+<!-- 百纪成长畅玩版：
 [[二维码]](https://github.com/fanyu2014/wufangAPK/blob/master/img/百纪成长畅玩版QRCode.png)
-[[下载链接]](https://a.app.qq.com/o/simple.jsp?pkgname=com.wufang.mall.mail)
+[[下载链接]](https://a.app.qq.com/o/simple.jsp?pkgname=com.wufang.mall.mail) -->
 
 ### 提测地址：
 百纪成长：
