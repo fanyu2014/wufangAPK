@@ -14,13 +14,16 @@
 [[下载链接]](https://a.app.qq.com/o/simple.jsp?pkgname=com.wufang.mall.mail) -->
 
 ### 提测地址：
+教育+：
+[[ apk ]](https://www.pgyer.com/gb3Q)
+
 百纪成长：
 [[ apk ]](https://www.pgyer.com/05UL)
 [[ iOS ]](https://www.pgyer.com/gsvh)
 [[ ipa ]](https://www.pgyer.com/manager/dashboard/app/1fcd94b39ee3d61337b8e94ccec48870)
 [[推送专用]](https://www.pgyer.com/4y1O)
 
-教育+：
+扫码枪：
 [[ apk ]](https://www.pgyer.com/gb3Q)
 
 ### 提测日志：
