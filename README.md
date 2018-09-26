@@ -24,7 +24,7 @@
 [[推送专用]](https://www.pgyer.com/4y1O)
 
 扫码枪：
-[[ apk ]](https://www.pgyer.com/gb3Q)
+[[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
 9月26日教育加_2.8.6(apk)：正式环境：解决的bug如下：
