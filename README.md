@@ -27,6 +27,10 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
+9月30日扫码枪_1.2.0(apk)：正式环境
+
+9月30日百纪成长_1.6.2(apk、ipa)：正式环境
+
 9月28日百纪成长_1.6.2（apk）：测试环境：解决的问题如下：
 
     [x]百纪1.6.2：特价抢购订单去掉陪同人与预约时间，而是：份数 ==> 订单列表页
