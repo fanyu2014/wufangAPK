@@ -27,6 +27,10 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
+10月8日扫码枪_1.2.0(apk)：正式环境：接口变动
+
+10月8日扫码枪_1.2.0(apk)：测试环境：接口变动
+
 9月30日扫码枪_1.2.0(apk)：正式环境
 
 9月30日百纪成长_1.6.2(apk、ipa)：正式环境
