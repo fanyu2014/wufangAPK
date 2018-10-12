@@ -27,6 +27,11 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
+10月12日百纪成长_1.6.2(apk、iOS)：测试环境：解决的问题如下：
+
+    [x]百纪1.6.2：秒杀活动不显示
+    [x]百纪1.6.2：“关于我们”页面二维码不全：位置：http://bjcz.app.wufangedu.com:18081/WFvendition/design/book/index.html
+
 10月8日扫码枪_1.2.0(apk)：正式环境：接口变动
 
 10月8日扫码枪_1.2.0(apk)：测试环境：接口变动
