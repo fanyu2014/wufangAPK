@@ -27,6 +27,8 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
+10月12日百纪成长_1.6.2(apk、ipa)：正式环境
+
 10月12日百纪成长_1.6.2(apk、iOS)：测试环境：解决的问题如下：
 
     [x]百纪1.6.2：秒杀活动不显示
