@@ -27,6 +27,10 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
+10月16日教育加_2.8.7(apk)：正式环境：解决的问题如下：
+
+    [x]edu2.8.7：海涛：一卡通“出入记录”与“通话记录”切换界面的时候数据出错
+
 10月15日教育加_2.8.7(apk)：正式环境：解决的问题如下：
 
     [x]edu2.8.7：班级圈图片浏览界面缺少保存图片功能
