@@ -27,6 +27,45 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
+1月29日教育加_2.8.10(apk)：正式环境：解决的问题如下：
+
+    [x]edu2.8.10：需求：一卡通挂失
+    [x]edu2.8.10：HttpUtil的细节优化
+    [x]edu2.8.10：闪退时从缓存中恢复用户数据（刘振早前bug）
+    [x]edu2.8.10：去除接口XjzButton的调用：http://sc.jk.wufangedu.com/api/Util/XjzButton/?access_token=9e0c609fade840ea85e6d0a9db335ff1
+    [x]edu2.8.10：整体换用新框架（失败，还是使用现有框架，以后可针对单独接口做特别处理）
+    [x]edu2.8.10：轻量级封装okhttp
+    [x]edu2.8.10：HttpUtil试用：跑通/api/Banner/接口（四川账号）
+    [x]edu2.8.10：优化：发现页：下拉刷新改成统一风格
+    [x]edu2.8.10：安卓四川用户登录需要点几下（四川接口随机报错）：去掉这句能避免：connection.setRequestProperty("Connection", "close");
+    目前状况：四川的用户去掉了这句代码。
+    [x]edu2.8.10：bug：调查海柯webView页面打开错误问题（js.creatDatabase报错）
+    [x]edu2.8.10：优化：班级圈/相册：只有一张图的时候的显示优化
+    [x]edu2.8.10：优化：通讯录老师页：下拉刷新改成统一风格
+    [x]edu2.8.10：优化：通讯录学生页：下拉刷新改成统一风格
+    [x]edu2.8.10：优化：首页-更多：icon间距调整
+    [x]edu2.8.10：优化：一卡通：actionbar的pupup图
+    [x]edu2.8.10：bug：聊天记录之前的信息拿不到（已解决）
+    [x]edu2.8.10：优化：进入一卡通界面时响应慢的问题（弹loading框）
+    [x]edu2.8.10：/api/onecardbalance/listdepositproductV2/接口商品列表为空时，做相应的处理
+    [x]edu2.8.10：优化：一卡通界面fragment的切换逻辑
+    [x]edu2.8.10：优化：一卡通界面fragment增加懒加载
+    [x]edu2.8.10：优化：一卡通界面fragment增加切换时的渐入渐出效果
+    [x]edu2.8.10：优化：一卡通界面fragment第一次加载时去除“暂无数据”文字
+    [x]edu2.8.10：优化：实现碎片界面的懒加载基类：LazyFragment
+    [x]edu2.8.10：跟踪：一卡通消费记录分页问题（已解决）
+    [x]edu2.8.10：bug：找出问题接口：一卡通消费记录分页问题（数据总量刚好等于10）
+    [x]edu2.8.10：新增：baseFragment增加checkForPermissions的protected方法
+    [x]edu2.8.10：新增：baseFragment增加onRequestPermissionsResult()的公共处理方法
+    [x]edu2.8.10：优化：EducationMainActivity日志管理
+    [x]edu2.8.10：优化：EducationMainActivity：selectTab方法、getHoliday方法
+    [x]edu2.8.10：优化：首页tabbar点击最小间隔时间从1000ms调整为700ms
+    [x]edu2.8.10：新增：baseActivity增加checkForPermissions的protected方法
+    [x]edu2.8.10：新增：baseActivity增加onRequestPermissionsResult()的公共处理方法
+    [x]edu2.8.10：新增：AppSizeCalUtil类：用于转换app尺寸，用于界面的适配
+    [x]edu2.8.10：重构：修改MyApplication类名字为App
+    [x]edu2.8.10：新增：ExceptionUtil类：用于统一处理项目的Exception
+
 10月19日教育加_2.8.8(apk)：正式环境：解决的问题如下：
 
     [x]edu2.8.8：学校通知页面qq分享失败（动态权限问题，已解决）
