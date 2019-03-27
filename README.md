@@ -27,7 +27,7 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
-3月27日教育加_2.8.10(apk)：正式环境：解决的问题如下：
+3月27日教育加_2.8.11(apk)：正式环境：解决的问题如下：
 
     [x]edu2.8.11：私信右上角改成popupWindow
     [x]edu2.8.11：升级微信开放平台sdk到最新版本
