@@ -27,6 +27,13 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
+4月1日教育加_2.8.11(apk)：正式环境：解决的问题如下：
+
+    [x]edu2.8.11：bug：收货地址匹配不支持199号段（已解决）
+    [x]edu2.8.11：bug：编辑收货地址后，点击保存，提示不能为空（已解决）
+    []edu2.8.11：对接电子班牌（进行中）
+
+
 3月27日教育加_2.8.11(apk)：正式环境：解决的问题如下：
 
     [x]edu2.8.11：私信右上角改成popupWindow
