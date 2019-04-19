@@ -27,7 +27,7 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
-4月17日教育加_2.8.13(apk)：正式环境：解决的问题如下：
+4月19日教育加_2.8.13(apk)：正式环境：解决的问题如下：
 
     [x]edu2.8.13：学生请假的小红点
 
