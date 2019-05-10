@@ -27,6 +27,10 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
+5月10日教育加_3.0.0(apk)：正式环境：解决的问题如下：
+
+    [x]edu3.0.0：bug：教师通知为空（账号：18700000002）
+
 5月6日教育加_3.0.0(apk)：正式环境：解决的问题如下：
 
     [x]edu3.0.0：bug：病假item点击没反应
