@@ -30,6 +30,7 @@
 
 5月28日教育加_3.0.1](apk)：正式环境：解决的问题如下：
 
+    [x]edu3.0.1：VIP新的续费界面
     [x]edu3.0.1：bug：修复推送功能（升级了版本）
     [x]edu3.0.1：我的服务：跳转vip充值界面
     [x]edu3.0.1：BaseFragment添加commonRefresh方法
