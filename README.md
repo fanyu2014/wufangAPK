@@ -15,7 +15,7 @@
 
 ### 提测地址：
 教育+：
-[[ apk ]](https://www.pgyer.com/gb3Q)
+[[ apk ]](https://www.pgyer.com/ZsbN)
 
 百纪成长：
 [[ apk ]](https://www.pgyer.com/05UL)
@@ -27,6 +27,12 @@
 [[ apk ]](https://github.com/fanyu2014/wufangAPK/blob/master/md/scan_gun_download_address.md)
 
 ### 提测日志：
+
+12月10日教育加_3.0.6[apk]：正式环境：解决的问题如下：
+
+    [x]edu3.0.7：大同小学：通讯录家长端只需要老师的联系方式，其他的不要（15116164882）
+    [x]edu3.0.7：班级圈禁止评论功能
+    [x]edu3.0.7：发起班级圈时可选择是否可评论
 
 11月08日教育加_3.0.6[apk]：正式环境：解决的问题如下：
 
